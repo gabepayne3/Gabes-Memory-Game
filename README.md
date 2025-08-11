@@ -1,12 +1,25 @@
-# React + Vite
+# 🧠 Gabe's Memory Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fun 2-player memory card game built with React! Flip cards, match pairs, and compete for the highest score.
 
-Currently, two official plugins are available:
+## 🎮 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔁 Flip cards to find matching pairs
+- 👥 Two-player turn-based mode
+- 🎲 Coin flip animation to decide who starts
+- 🎉 Winner announcement (or a draw!)
+- 🎨 Star Wars-inspired font and custom emoji styling
+- 🔄 Restart game and choose card pair count (6, 8, 10, 12)
+- ❓ Animated background of subtle question marks
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🛠 Installation
+
+To run the project locally:
+
+```bash
+git clone https://github.com/gabepayne3/Gabes-Memory-Game.git
+cd Gabes-Memory-Game
+npm install
+npm start
