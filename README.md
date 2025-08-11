@@ -8,7 +8,7 @@ A fun 2-player memory card game built with React! Flip cards, match pairs, and c
 - 👥 Two-player turn-based mode
 - 🎲 Coin flip animation to decide who starts
 - 🎉 Winner announcement (or a draw!)
-- 🎨 Star Wars-inspired font and custom emoji styling
+- 🎨 Custom styling
 - 🔄 Restart game and choose card pair count (6, 8, 10, 12)
 - ❓ Animated background of subtle question marks
 
