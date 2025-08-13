@@ -22,4 +22,4 @@ To run the project locally:
 git clone https://github.com/gabepayne3/Gabes-Memory-Game.git
 cd Gabes-Memory-Game
 npm install
-npm start
+npm run dev
