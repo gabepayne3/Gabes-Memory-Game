@@ -1,6 +1,7 @@
 # 🧠 Gabe's Memory Game
 
 A fun 2-player memory card game built with React! Flip cards, match pairs, and compete for the highest score.
+The deployed site: https://gabesmemorygame.netlify.app/ 
 
 ## 🎮 Features
 
