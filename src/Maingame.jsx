@@ -164,7 +164,7 @@ export default function MemoryGame() {
             >
               <div className="card-flip-inner">
                 <div className="card-face card-front">
-                  <img src="public/question.png" alt="?" className="question-img" />
+                  <img src="/question.png" alt="?" className="question-img" />
                 </div>
                 <div className="card-face card-back">{card.emoji}</div>
               </div>
